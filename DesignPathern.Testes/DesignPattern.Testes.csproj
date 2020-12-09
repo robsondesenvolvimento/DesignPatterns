@@ -23,8 +23,10 @@
     <ProjectReference Include="..\DesignPathern.AbstractFactory\DesignPattern.AbstractFactory.csproj" />
     <ProjectReference Include="..\DesignPathern.Singleton\DesignPattern.Singleton.csproj" />
     <ProjectReference Include="..\DesignPattern.Adapter\DesignPattern.Adapter.csproj" />
+    <ProjectReference Include="..\DesignPattern.Bridge\DesignPattern.Bridge.csproj" />
     <ProjectReference Include="..\DesignPattern.Builder\DesignPattern.Builder.csproj" />
     <ProjectReference Include="..\DesignPattern.FactoryMethod\DesignPattern.FactoryMethod.csproj" />
+    <ProjectReference Include="..\DesignPattern.Flyweight\DesignPattern.Flyweight.csproj" />
     <ProjectReference Include="..\DesignPattern.Prototype\DesignPattern.Prototype.csproj" />
   </ItemGroup>
 
