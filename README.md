@@ -14,6 +14,8 @@
   * Criação/Prototype
   ---
   * Estrutura/Adapter
+  * Estrutura/Bridge
+  * Estrutura/Flyweight
   * Continua nos próximos commits ...
 
 ### Referencias
