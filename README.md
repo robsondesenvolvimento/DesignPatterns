@@ -16,6 +16,7 @@
   * Estrutura/Adapter
   * Estrutura/Bridge
   * Estrutura/Flyweight
+  * Estrutura/Composite
   * Continua nos próximos commits ...
 
 ### Referencias

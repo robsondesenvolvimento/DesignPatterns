@@ -21,9 +21,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estrutura", "Estrutura", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Adapter", "DesignPattern.Adapter\DesignPattern.Adapter.csproj", "{6409C2BF-19BF-44AA-9D66-95D9CB162DE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Flyweight", "DesignPattern.Flyweight\DesignPattern.Flyweight.csproj", "{5A4C816B-E8B0-4831-A686-31239E2FA376}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Flyweight", "DesignPattern.Flyweight\DesignPattern.Flyweight.csproj", "{5A4C816B-E8B0-4831-A686-31239E2FA376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Bridge", "DesignPattern.Bridge\DesignPattern.Bridge.csproj", "{17ED9F55-2C0A-40D5-A46F-6B37C38639A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.Bridge", "DesignPattern.Bridge\DesignPattern.Bridge.csproj", "{17ED9F55-2C0A-40D5-A46F-6B37C38639A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.Composite", "DesignPattern.Composite\DesignPattern.Composite.csproj", "{1C2E7C2A-E5F3-4511-AB98-290A3E028776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{17ED9F55-2C0A-40D5-A46F-6B37C38639A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17ED9F55-2C0A-40D5-A46F-6B37C38639A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17ED9F55-2C0A-40D5-A46F-6B37C38639A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2E7C2A-E5F3-4511-AB98-290A3E028776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2E7C2A-E5F3-4511-AB98-290A3E028776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2E7C2A-E5F3-4511-AB98-290A3E028776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2E7C2A-E5F3-4511-AB98-290A3E028776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,6 +86,7 @@ Global
 		{6409C2BF-19BF-44AA-9D66-95D9CB162DE8} = {83F1AFAB-1DF7-4FDE-B130-1FC0ABF2668F}
 		{5A4C816B-E8B0-4831-A686-31239E2FA376} = {83F1AFAB-1DF7-4FDE-B130-1FC0ABF2668F}
 		{17ED9F55-2C0A-40D5-A46F-6B37C38639A7} = {83F1AFAB-1DF7-4FDE-B130-1FC0ABF2668F}
+		{1C2E7C2A-E5F3-4511-AB98-290A3E028776} = {83F1AFAB-1DF7-4FDE-B130-1FC0ABF2668F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4B177D8-4486-4DA3-A485-066D5B6E2891}
