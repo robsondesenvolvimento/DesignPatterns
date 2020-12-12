@@ -17,6 +17,8 @@
   * Estrutura/Bridge
   * Estrutura/Flyweight
   * Estrutura/Composite
+  * Estrutura/Decorator
+  * Estrutura/Facade
   * Continua nos próximos commits ...
 
 ### Referencias
